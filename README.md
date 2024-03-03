@@ -33,6 +33,8 @@ The original Pac-Man game is remembered for its simplicity, addictive gameplay, 
 The project was brought to life using Python, entirely built upon the foundational concepts of Object-Oriented Programming (OOP), 
 with a helping hand from the Pygame library, but also incorporates original assets from the Pac-Man game which provides a nostalgic touch to the project.
 
+Start and Pause the game by pressing Spacebar.
+
 ## Preview
 
 ![image](https://github.com/MilanMj11/Pac-Man/assets/87907265/273ade48-f026-415e-b939-b20f1dc195c3)
